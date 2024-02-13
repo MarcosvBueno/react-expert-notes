@@ -24,13 +24,13 @@ https://github.com/MarcosvBueno/react-expert-notes/assets/104960654/44df03c7-eac
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-nome-de-usuário/ignite-shop.git
+git clone https://github.com/seu-nome-de-usuário/react-expert-notes.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd ignite-shop
+cd react-expert-notes
 ```
 
 3. Instale as dependências usando npm ou yarn:
